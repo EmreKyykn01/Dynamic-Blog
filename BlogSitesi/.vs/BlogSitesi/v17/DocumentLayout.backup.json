@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\BlogSitesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4CD33C-3FE6-43CB-9570-9A2A9665D145}|BlogSitesi\\BlogSitesi.csproj|c:\\users\\user\\source\\repos\\blogsitesi\\blogsitesi\\areas\\admin\\views\\main\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D4CD33C-3FE6-43CB-9570-9A2A9665D145}|BlogSitesi\\BlogSitesi.csproj|solutionrelative:blogsitesi\\areas\\admin\\views\\main\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4CD33C-3FE6-43CB-9570-9A2A9665D145}|BlogSitesi\\BlogSitesi.csproj|c:\\users\\user\\source\\repos\\blogsitesi\\blogsitesi\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D4CD33C-3FE6-43CB-9570-9A2A9665D145}|BlogSitesi\\BlogSitesi.csproj|solutionrelative:blogsitesi\\areas\\admin\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4CD33C-3FE6-43CB-9570-9A2A9665D145}|BlogSitesi\\BlogSitesi.csproj|c:\\users\\user\\source\\repos\\blogsitesi\\blogsitesi\\areas\\admin\\views\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D4CD33C-3FE6-43CB-9570-9A2A9665D145}|BlogSitesi\\BlogSitesi.csproj|solutionrelative:blogsitesi\\areas\\admin\\views\\contacts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4CD33C-3FE6-43CB-9570-9A2A9665D145}|BlogSitesi\\BlogSitesi.csproj|c:\\users\\user\\source\\repos\\blogsitesi\\blogsitesi\\entites\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D4CD33C-3FE6-43CB-9570-9A2A9665D145}|BlogSitesi\\BlogSitesi.csproj|solutionrelative:blogsitesi\\entites\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4CD33C-3FE6-43CB-9570-9A2A9665D145}|BlogSitesi\\BlogSitesi.csproj|c:\\users\\user\\source\\repos\\blogsitesi\\blogsitesi\\areas\\admin\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D4CD33C-3FE6-43CB-9570-9A2A9665D145}|BlogSitesi\\BlogSitesi.csproj|solutionrelative:blogsitesi\\areas\\admin\\controllers\\contactscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4CD33C-3FE6-43CB-9570-9A2A9665D145}|BlogSitesi\\BlogSitesi.csproj|c:\\users\\user\\source\\repos\\blogsitesi\\blogsitesi\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D4CD33C-3FE6-43CB-9570-9A2A9665D145}|BlogSitesi\\BlogSitesi.csproj|solutionrelative:blogsitesi\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4CD33C-3FE6-43CB-9570-9A2A9665D145}|BlogSitesi\\BlogSitesi.csproj|c:\\users\\user\\source\\repos\\blogsitesi\\blogsitesi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D4CD33C-3FE6-43CB-9570-9A2A9665D145}|BlogSitesi\\BlogSitesi.csproj|solutionrelative:blogsitesi\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4CD33C-3FE6-43CB-9570-9A2A9665D145}|BlogSitesi\\BlogSitesi.csproj|c:\\users\\user\\source\\repos\\blogsitesi\\blogsitesi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D4CD33C-3FE6-43CB-9570-9A2A9665D145}|BlogSitesi\\BlogSitesi.csproj|solutionrelative:blogsitesi\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4CD33C-3FE6-43CB-9570-9A2A9665D145}|BlogSitesi\\BlogSitesi.csproj|c:\\users\\user\\source\\repos\\blogsitesi\\blogsitesi\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4D4CD33C-3FE6-43CB-9570-9A2A9665D145}|BlogSitesi\\BlogSitesi.csproj|solutionrelative:blogsitesi\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 240,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlogSitesi\\BlogSitesi\\Areas\\Admin\\Views\\Main\\Index.cshtml",
+              "RelativeDocumentMoniker": "BlogSitesi\\Areas\\Admin\\Views\\Main\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BlogSitesi\\BlogSitesi\\Areas\\Admin\\Views\\Main\\Index.cshtml",
+              "RelativeToolTip": "BlogSitesi\\Areas\\Admin\\Views\\Main\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T01:15:16.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlogSitesi\\BlogSitesi\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "BlogSitesi\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BlogSitesi\\BlogSitesi\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "BlogSitesi\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T00:58:33.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlogSitesi\\BlogSitesi\\Areas\\Admin\\Views\\Contacts\\Index.cshtml",
+              "RelativeDocumentMoniker": "BlogSitesi\\Areas\\Admin\\Views\\Contacts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BlogSitesi\\BlogSitesi\\Areas\\Admin\\Views\\Contacts\\Index.cshtml",
+              "RelativeToolTip": "BlogSitesi\\Areas\\Admin\\Views\\Contacts\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T00:57:45.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ContactsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlogSitesi\\BlogSitesi\\Areas\\Admin\\Controllers\\ContactsController.cs",
+              "RelativeDocumentMoniker": "BlogSitesi\\Areas\\Admin\\Controllers\\ContactsController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BlogSitesi\\BlogSitesi\\Areas\\Admin\\Controllers\\ContactsController.cs",
+              "RelativeToolTip": "BlogSitesi\\Areas\\Admin\\Controllers\\ContactsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T00:57:23.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlogSitesi\\BlogSitesi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BlogSitesi\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BlogSitesi\\BlogSitesi\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BlogSitesi\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T00:49:46.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlogSitesi\\BlogSitesi\\Entites\\Contact.cs",
+              "RelativeDocumentMoniker": "BlogSitesi\\Entites\\Contact.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BlogSitesi\\BlogSitesi\\Entites\\Contact.cs",
+              "RelativeToolTip": "BlogSitesi\\Entites\\Contact.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwAkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T00:39:31.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlogSitesi\\BlogSitesi\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "BlogSitesi\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BlogSitesi\\BlogSitesi\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "BlogSitesi\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T00:38:52.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlogSitesi\\BlogSitesi\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "BlogSitesi\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BlogSitesi\\BlogSitesi\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "BlogSitesi\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-27T00:38:05.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\BlogSitesi\\BlogSitesi\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "BlogSitesi\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\BlogSitesi\\BlogSitesi\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "BlogSitesi\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwCwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T00:17:07.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
